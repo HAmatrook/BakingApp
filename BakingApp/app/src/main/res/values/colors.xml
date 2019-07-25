@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8dd212</color>
+    <color name="colorPrimaryDark">#658925</color>
+    <color name="colorAccent">#F5A038</color>
+    <color name="colorAccentDark">#743C00</color>
+    <color name="colorAccentLight">#FFE1C4</color>
+
+    <color name="Waite">#FFFF</color>
+    <color name="Gray">#9ea199</color>
+
+
+
+
+</resources>
